@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">Enthusiastic about delving into the latest technological horizons, particularly fascinated by the realms of machine learning, AI, and data science. Excited to engage in collaborative endeavors and play a part in shaping the forefront of technological evolution. Ready to embrace learning, knowledge-sharing, and paving the way for a dynamic tech landscape.</h3>
 
-- 🌱 I’m currently learning **Generative AI,Pandas,Tensorflow,openCV,seaborn,CNN**
+- 🌱 I’m currently learning **Generative AI, Pandas, Tensorflow, openCV, seaborn, CNN**
 
-- 📫 How to reach me **ml.yuvrajsingh@gmail.com**
+- 📫 How to reach me at **ml.yuvrajsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
